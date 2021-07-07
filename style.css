@@ -1,0 +1,10 @@
+body{
+     text-align: center;
+}
+img{
+     height:auto;
+     width::auto;
+     border: solid #050505;
+     padding: 3px;
+     margin: :20px;
+}
